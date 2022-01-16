@@ -65,7 +65,7 @@ Studious and passionate student with extensive interest in the current technolog
 <br />
 <br />
 
-## Connect with me:
+# Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
