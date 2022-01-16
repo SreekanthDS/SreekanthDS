@@ -73,7 +73,7 @@ Studious and passionate student with extensive interest in the current technolog
 <br />
 <br />
 
-All icons used above are provided by <a href="https://icons8.com/">Icons8</a>
+©️ All icons used above are provided by <a href="https://icons8.com/">Icons8™️</a>
 
 [twitter]: https://twitter.com/technocrat_SK_
 [instagram]: https://instagram.com/sathya__it__is/
