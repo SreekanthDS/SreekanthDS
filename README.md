@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 📚 I'm studing computer science engineering (Well Duh! 🤲🏻)
 - 🥅 2022 Goals: Trying to do better than yesterday! (Aren't we all? 😁)
-- ⚡ Fun fact: I love PC hardware troubleshooting 🔫 and assembly 🖥️!
+- ⚡ Fun fact: I love hardware troubleshooting 🔫 and assembly 🖥️!
 - 🥲 Not-So-Fun fact: I dont like Math that much, But i'm freaky good at it 😐!
 - 🎎 Hobby: Anime ❤️📺🍿!
 - ㊙️ My Secret: I make lame jokes 🙃!
