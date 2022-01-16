@@ -11,15 +11,11 @@
 ## About me (in a formal way 🤵🏻):
 Studious and passionate student with extensive interest in the current technological world and modern computing methodologies. Successful at maintaining positive professional relationships to enhance overall success. Dedicated and thriving programmer in many need-of-the-hour programming languages. Interested in learning new IT and computing skills. Outgoing and friendly with fantastic attention to detail.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-<br />
-
----
 
 ## Core languages im familiar with:
 
@@ -28,8 +24,6 @@ Studious and passionate student with extensive interest in the current technolog
 <img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" title="PhP" alt="PhP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-
-<br />
 
 ## Web-Dev languages languages, frameworks & tools im familiar with:
 
@@ -45,8 +39,6 @@ Studious and passionate student with extensive interest in the current technolog
 <img align="left" title="SaSS" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br />
-
 ## Other tools:
 
 <img align="left" title="MatLab" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
@@ -55,9 +47,6 @@ Studious and passionate student with extensive interest in the current technolog
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" title="Linux Bash" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
 
 [<a href="https://icons8.com/">icon by Icons8</a>]
 
