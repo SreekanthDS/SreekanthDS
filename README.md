@@ -25,6 +25,8 @@ Studious and passionate student with extensive interest in the current technolog
 
 ---
 
+<br />
+
 # My Skills 💪🏻 - 👇🏻
 ## Core languages ⛑️ im familiar with:
 
