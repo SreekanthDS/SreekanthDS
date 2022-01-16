@@ -37,7 +37,7 @@ Studious and passionate student with extensive interest in the current technolog
 
 <br />
 
-## Web-Dev languages 🗣️, frameworks 🪟 & tools ⚙️ im familiar with:
+## Web-Dev languages 🗣️, frameworks 🪟 & tools ⚙️ i'm familiar with:
 
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" title="AngularJS" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
