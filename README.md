@@ -21,9 +21,9 @@ As said, I am a student, but also, I am working as a Full-Stack developer. Contr
 ### About me (in a formal way 🤵🏻🤫):
 Studious and passionate student with extensive interest in the current technological world and modern computing methodologies. Successful at maintaining positive professional relationships to enhance overall success. Dedicated and thriving programmer in many need-of-the-hour programming languages. Interested in learning new IT and computing skills. Outgoing and friendly with fantastic attention to detail.
 
----
-
 <br />
+
+---
 
 # My Skills 💪🏻 - 👇🏻
 ## Core languages ⛑️ im familiar with:
