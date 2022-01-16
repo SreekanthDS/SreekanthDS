@@ -1,7 +1,7 @@
 # Hi there, I'm Sreekanth <img title="Sreekanth's brain" alt="Sreekanth's brain" src="https://img.icons8.com/doodle/48/000000/smart-.png"/> - aka KRATOS-SK <img title="KRATOS - The God of war" alt="KRATOS - God of war" src="https://img.icons8.com/fluency/48/000000/god.png"/>
 
 ## Who am I and what I do? 👇🏻
-## I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
+### I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
 
 - 🌱 I’m currently learning everything 🤣
 - 📚 I'm studing computer science engineering (Well Duh! 🤲🏻)
@@ -11,7 +11,7 @@
 
 <br />
 
-## About me (in a formal way 🤵🏻):
+### About me (in a formal way 🤵🏻):
 Studious and passionate student with extensive interest in the current technological world and modern computing methodologies. Successful at maintaining positive professional relationships to enhance overall success. Dedicated and thriving programmer in many need-of-the-hour programming languages. Interested in learning new IT and computing skills. Outgoing and friendly with fantastic attention to detail.
 
 ---
