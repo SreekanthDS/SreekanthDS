@@ -1,4 +1,4 @@
-### Hi there, I'm Sreekanth - aka [KRATOS-SK] 👋 🤙
+# Hi there, I'm Sreekanth - aka [KRATOS-SK] 👋 🤙
 
 ## I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
 
