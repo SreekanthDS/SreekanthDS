@@ -14,7 +14,7 @@
 <br />
 
 ### What's up with me? 😏:
-As said, i am a student but also, i am working as a Full-Stack developer for International Workplace, Ltd. Contradicting my job title (Full-Stack), I am only working "Part-Time" (Get it? 🙃)...
+As said, I am a student but also, i am working as a Full-Stack developer for International Workplace, Ltd. Contradicting my job title (Full-Stack), I am only working "Part-Time" (Get it? 🙃)...
 
 ### About me (in a formal way 🤵🏻):
 Studious and passionate student with extensive interest in the current technological world and modern computing methodologies. Successful at maintaining positive professional relationships to enhance overall success. Dedicated and thriving programmer in many need-of-the-hour programming languages. Interested in learning new IT and computing skills. Outgoing and friendly with fantastic attention to detail.
