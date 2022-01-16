@@ -1,7 +1,5 @@
 # Hi there, I'm Sreekanth - aka [KRATOS-SK] 👋 🤙
 
----
-
 ## Who am I and what I do? 👇🏻
 ## I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
 
