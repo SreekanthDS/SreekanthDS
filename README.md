@@ -14,7 +14,7 @@
 <br />
 
 ### What's up with me? 😏:
-As said, I am a student but also, I am working as a Full-Stack developer for International Workplace, Ltd. Contradicting my job title (Full-Stack), I am only working "Part-Time" (Get it? 🙃 👉🏻👈🏻)...
+As said, I am a student, but also, I am working as a Full-Stack developer. Contradicting my job title (Full-Stack), I am only working "Part-Time" (Get it? 🙃 👉🏻👈🏻)...
 
 <br />
 
