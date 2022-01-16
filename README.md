@@ -1,4 +1,4 @@
-# Hi there, I'm Sreekanth - aka [KRATOS-SK] 👋 🤙
+# Hi there, I'm Sreekanth - aka KRATOS-SK <img src="https://img.icons8.com/external-photo3ideastudio-flat-photo3ideastudio/64/000000/external-god-chinese-new-year-photo3ideastudio-flat-photo3ideastudio.png"/>
 
 ## Who am I and what I do? 👇🏻
 ## I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
