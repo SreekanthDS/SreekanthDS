@@ -1,4 +1,4 @@
-# Hi there, I'm Sreekanth - aka KRATOS-SK <img src="https://img.icons8.com/fluency/48/000000/god.png"/>
+# Hi there, I'm Sreekanth <img title="Sreekanth's brain" alt="Sreekanth's brain" src="https://img.icons8.com/doodle/48/000000/smart-.png"/> - aka KRATOS-SK <img title="KRATOS - The God of war" alt="KRATOS - God of war" src="https://img.icons8.com/fluency/48/000000/god.png"/>
 
 ## Who am I and what I do? 👇🏻
 ## I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
