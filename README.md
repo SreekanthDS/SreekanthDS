@@ -1,25 +1,25 @@
 # Hi there, I'm Sreekanth <img title="Sreekanth's brain" alt="Sreekanth's brain" src="https://img.icons8.com/doodle/48/000000/smart-.png"/>
 
 ## Who I am and what I do? 👇🏻
-### I'm a Student 🧑🏻‍🎓, Developer 🧑🏻‍💻 and Gamer 🕹️!!
+### I'm a COmputer Sciecne Graduate 🧑🏻‍🎓, Software Engineer 🧑🏻‍💻 and Gamer 🕹️!!
 
-- 🌱 I’m currently learning everything 🤣
-- 📚 I'm studing computer science engineering (Well Duh! 🤲🏻)
-- 🥅 2022 Goals: Trying to do better than yesterday! (Aren't we all? 😁)
+- 🌱 I’m currently learning everything I can...
+- 📚 I am a Computer Science Graduate, with First-Class Honours (Well Duh! 🤲🏻)
+- 🥅 2023 Goals: Trying to do better than yesterday! 😁
 - ⚡ Fun fact: I love hardware troubleshooting 🔫 and assembly 🖥️!
 - 🥲 Not-So-Fun fact: I dont like Math that much, But i'm freaky good at it 😐!
 - 🎎 Hobby: Anime ❤️📺🍿!
-- ㊙️ My Secret: I make lame jokes 🙃!
+- ㊙️ My favourite quote of all time: Everything you can imagine is real 🙃!
 
 <br />
 
-### What's up with me? 😏:
-As said, I am a student, but also, I am working as a Full-Stack developer. Contradicting my job title (Full-Stack), I am only working "Part-Time" (Get it? 🙃 👉🏻👈🏻)...
+### What do I do?
+I am working as a Full-Stack Software Engineer @ International Workplace
 
 <br />
 
 ### About me (in a formal way 🤵🏻🤫):
-Studious and passionate student with extensive interest in the current technological world and modern computing methodologies. Successful at maintaining positive professional relationships to enhance overall success. Dedicated and thriving programmer in many need-of-the-hour programming languages. Interested in learning new IT and computing skills. Outgoing and friendly with fantastic attention to detail.
+Highly skilled Computer Science Engineering graduate with a first-class honours’ degree. I bring over 2 years of hands-on experience in software development, specializing in agile methodologies. Proficient in managing multiple projects concurrently, conducting regular code reviews, and developing container-based applications to optimize code reusability. Known for my meticulous and fastidious approach, coupled with a friendly attitude that facilitates positive professional relationships. As a dedicated and thriving engineer, I possess a strategic mindset and excel in problem-solving. Seeking opportunities to apply my logical reasoning, programming expertise, and collaborative skills in a dynamic and innovative environment.
 
 <br />
 
