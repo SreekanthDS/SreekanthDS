@@ -1,7 +1,7 @@
 # Hi there, I'm Sreekanth <img title="Sreekanth's brain" alt="Sreekanth's brain" src="https://img.icons8.com/doodle/48/000000/smart-.png"/>
 
 ## Who I am and what I do? 👇🏻
-### I'm a COmputer Sciecne Graduate 🧑🏻‍🎓, Software Engineer 🧑🏻‍💻 and Gamer 🕹️!!
+### I'm a Computer Sciecne Graduate 🧑🏻‍🎓, Software Engineer 🧑🏻‍💻 and Gamer 🕹️!!
 
 - 🌱 I’m currently learning everything I can...
 - 📚 I am a Computer Science Graduate, with First-Class Honours (Well Duh! 🤲🏻)
