@@ -39,8 +39,8 @@ MatLab, MySQL, MongoDB, Git, GitHub, Linux Bash
 
 ### Connect with this code conjurer 🌏🔗:
 
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
 
 ©️ Icons powered by [Icons8™️](https://icons8.com/)
