@@ -1,84 +1,46 @@
-# Hi there, I'm Sreekanth <img title="Sreekanth's brain" alt="Sreekanth's brain" src="https://img.icons8.com/doodle/48/000000/smart-.png"/>
+# Hey, I'm Sreekanth! 🚀
 
-## Who I am and what I do? 👇🏻
-### I'm a Computer Sciecne Graduate 🧑🏻‍🎓, Software Engineer 🧑🏻‍💻 and Gamer 🕹️!!
+## Who am I? 👇🏻
+I'm not your run-of-the-mill coder; I'm a Computer Science Maestro 🧑🏻‍🎓, a Software Sorcerer 🧑🏻‍💻, and a Gaming Guru 🕹️! Currently soaking up all the tech wisdom the cosmos has to offer. Oh, and I graduated with First-Class Honours? Well, duh! 😛
 
-- 🌱 I’m currently learning everything I can...
-- 📚 I am a Computer Science Graduate, with First-Class Honours (Well Duh! 🤲🏻)
-- 🥅 2023 Goals: Trying to do better than yesterday! 😁
-- ⚡ Fun fact: I love hardware troubleshooting 🔫 and assembly 🖥️!
-- 🥲 Not-So-Fun fact: I dont like Math that much, But i'm freaky good at it 😐!
-- 🎎 Hobby: Anime ❤️📺🍿!
-- ㊙️ My favourite quote of all time: Everything you can imagine is real 🙃!
+## What's my game plan? 🎮
+In 2023, I'm leveling up from yesterday's me. Fun fact: I wield the troubleshooting gun for hardware headaches 🔫 and dance with assembly 🖥️. Not-so-fun fact: Math isn't my fan, but I conquer it like a freakin' pro 😐. Anime ❤️📺🍿 is my off-duty escape, and my motto? "Everything you can imagine is real" 🙃!
 
-<br />
+## Where do I code magic? 💻
+Currently, I'm the Full-Stack Maestro @ International Workplace. Imagine a symphony of code, and that's my workspace.
 
-### What do I do?
-I am working as a Full-Stack Software Engineer @ International Workplace
-
-<br />
-
-### About me (in a formal way 🤵🏻🤫):
-Highly skilled Computer Science Engineering graduate with a first-class honours’ degree. I bring over 2 years of hands-on experience in software development, specializing in agile methodologies. Proficient in managing multiple projects concurrently, conducting regular code reviews, and developing container-based applications to optimize code reusability. Known for my meticulous and fastidious approach, coupled with a friendly attitude that facilitates positive professional relationships. As a dedicated and thriving engineer, I possess a strategic mindset and excel in problem-solving. Seeking opportunities to apply my logical reasoning, programming expertise, and collaborative skills in a dynamic and innovative environment.
-
-<br />
+## Formal brag time 🤵🏻🤫
+Hold on to your code hats! I'm a high-flying Computer Science grad, flaunting a first-class honours degree. With over three years in the software realm, I've not just coded; I've orchestrated solutions with finesse. My journey in the vibrant startup world and close-knit teams has been a masterclass in learning and achievement, surpassing the conventional software gig. Juggling multiple projects, doing code reviews, and crafting container-based applications for breakfast is where I excel. Meticulous, fastidious, and friendlier than your average code compiler. Ready to apply my logical prowess, coding wizardry, and collaborative finesse wherever innovation calls.
 
 ---
 
-<br />
+# My Extended Tech Arsenal 💪🏻
+## Core languages that bow to my commands ⛑️:
 
-# My Skills 💪🏻 - 👇🏻
-## Core languages ⛑️ im familiar with:
+PHP, C, C++, C#, Java, Python
 
-<img align="left" title="C" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" title="C++" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" title="C#" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" title="Java" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" title="Python" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" title="PhP" alt="PhP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+## Frameworks & Tech Wizardry 🪄:
 
-<br />
+Laravel, JavaScript, AngularJS, VueJS, ReactJS, Flutter, Node.js, SQL, HTML5, CSS, Sass
 
-## Web-Dev languages 🗣️, frameworks 🪟 & tools ⚙️ i'm familiar with:
+## Other mystical tools ⚙️:
 
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" title="AngularJS" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" title="VueJS" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" title="ReactJS" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" title="Flutter" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" title="CSS" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" title="SaSS" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+MatLab, MySQL, MongoDB, Git, GitHub, Linux Bash
 
-<br />
+---
 
-## Other tools ⚙️:
+### Ask Me About 💬:
 
-<img align="left" title="MatLab" alt="MatLab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" title="Linux Bash" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- The latest in Laravel and Filament ⚙️
+- One Piece, Jujutsu Kaisen, or any anime recommendations 🍿
+- Crafting clean and efficient code with PHP, Laravel, Python, and C# ✨
+- Innovative approaches to problem-solving in software architecture 🏰
+- How to make your codebase more maintainable and scalable 🚀
 
-<br />
-<br />
-<br />
+### Connect with this code conjurer 🌏🔗:
 
-# Connect with me 🌏🔗:
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-<br />
-<br />
-<br />
-
-©️ All icons used above are provided by <a href="https://icons8.com/">Icons8™️</a>
-
-[twitter]: https://twitter.com/technocrat_SK_
-[instagram]: https://instagram.com/sathya__it__is/
-[linkedin]: https://linkedin.com/in/sreekanthds/
+©️ Icons powered by [Icons8™️](https://icons8.com/)
