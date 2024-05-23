@@ -4,7 +4,7 @@
 I'm not your run-of-the-mill coder; I'm a Computer Science Maestro 🧑🏻‍🎓, a Software Sorcerer 🧑🏻‍💻, and a Gaming Guru 🕹️! Currently soaking up all the tech wisdom the cosmos has to offer. Oh, and I graduated with First-Class Honours? Well, duh! 😛
 
 ## What's my game plan? 🎮
-In 2023, I'm leveling up from yesterday's me. 
+In 2024, I'm leveling up from yesterday's me. 
 
 - Fun fact: I wield the troubleshooting gun for hardware headaches 🔫 and dance with assembly 🖥️.
 - Not-so-fun fact: Math isn't my fan, but I conquer it like a freakin' pro 😐.
